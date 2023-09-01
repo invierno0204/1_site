@@ -30,30 +30,9 @@ params:
   social:
     - icon: fa fa-2x fa-github
       name: Github
-      url: https://github.com/johndoe/
+      url: https://github.com/invierno0204
       weight: 1
-    - icon: fa fa-2x fa-gitlab
-      name: Gitlab
-      url: https://gitlab.com/johndoe/
-      weight: 2
-    - icon: fa fa-2x fa-twitter
-      name: Twitter
-      url: https://twitter.com/johndoe/
-      weight: 3
-    - icon: fa fa-2x fa-linkedin
-      name: LinkedIn
-      url: https://www.linkedin.com/in/johndoe/
-      weight: 4
-    - icon: fa fa-2x fa-medium
-      name: Medium
-      url: https://medium.com/@johndoe
-      weight: 5
-    - icon: fa fa-2x fa-rss
-      name: RSS
-      rel: alternate
-      type: application/rss+xml
-      url: https://myhugosite.com/index.xml
-      weight: 6
+   
 taxonomies:
   author: authors
   category: categories
